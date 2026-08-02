@@ -1,4 +1,4 @@
-# 🏡 Home Server & Infrastructure
+# 🏡 Home Server Documentation
 
 ![Debian](https://img.shields.io/badge/OS-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker&logoColor=white)
