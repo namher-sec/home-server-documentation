@@ -1,3 +1,9 @@
+> **⚠️ Archived**
+> This home server has been retired and replaced. This repository is now read-only and kept for historical reference.
+> 👉 Current setup: [Debian-Home-Server-Documentation](https://github.com/namher-sec/Debian-Home-Server-Documentation)
+
+---
+
 # 🏡 Home Server Documentation
 
 ![Debian](https://img.shields.io/badge/OS-Debian-A81D33?style=flat&logo=debian&logoColor=white)
